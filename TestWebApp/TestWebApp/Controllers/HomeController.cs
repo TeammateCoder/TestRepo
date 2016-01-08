@@ -10,7 +10,7 @@ namespace TestWebApp.Controllers
     {
         public ActionResult Index()
         {
-            var test = "HEY";
+            var test = "HEY YA";
             return View();
         }
 
